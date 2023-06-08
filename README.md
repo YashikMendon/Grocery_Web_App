@@ -1,2 +1,2 @@
-# Grocery_Web_App
+# Grocery Web Application
 https://radiant-gaufre-888c56.netlify.app
